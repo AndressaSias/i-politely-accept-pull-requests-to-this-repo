@@ -13,9 +13,9 @@ WOULDN'T YOU PREFER A GOOD GAME OF CHESS?
 6        ♞                
 5                        
 4                    ♙   
-3                        
+3                     ♘   
 2  ♙  ♙  ♙  ♙  ♙  ♙     ♙
-1  ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖
+1  ♖  ♘  ♗  ♕  ♔  ♗     ♖
    a  b  c  d  e  f  g  h
 ```
 :)
